@@ -61,10 +61,9 @@ If I had more time, I would:
 
 ---
 
-## How to Run
+## Live Demo
 
-1. Download or clone the repository  
-2. Open the `index.html` file in your browser  
+ 
 
 ---
 
