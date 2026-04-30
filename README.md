@@ -1,11 +1,11 @@
-# 🧮 Calculator App
+# Calculator App
 
 This is a simple calculator web app that I built using HTML, CSS and JavaScript.  
 The goal of this project was to practice JavaScript logic, event handling, and working with user input.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Basic arithmetic operations:
   - Addition (+)
@@ -18,7 +18,7 @@ The goal of this project was to practice JavaScript logic, event handling, and w
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
@@ -26,7 +26,7 @@ The goal of this project was to practice JavaScript logic, event handling, and w
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 While building this project, I improved my understanding of:
 
@@ -38,7 +38,7 @@ While building this project, I improved my understanding of:
 
 ---
 
-## ⚠️ Challenges
+## Challenges
 
 Some of the things I struggled with:
 
@@ -50,7 +50,7 @@ I had to test different cases and fix bugs step by step.
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 If I had more time, I would:
 
@@ -61,19 +61,19 @@ If I had more time, I would:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Download or clone the repository  
 2. Open the `index.html` file in your browser  
 
 ---
 
-## 👤 Author
+## Author
 
 Nomcebo Mtshali  
 
 ---
 
-## 📌 Notes
+## Notes
 
 This project is part of my learning journey as I build up my web development skills and portfolio.
