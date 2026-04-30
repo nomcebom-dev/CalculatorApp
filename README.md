@@ -61,11 +61,6 @@ If I had more time, I would:
 
 ---
 
-## Live Demo
-[https://nomcebom-dev.github.io/CalculatorApp/](https://nomcebom-dev.github.io/CalculatorApp/)
- 
-
----
 
 ## Author
 
